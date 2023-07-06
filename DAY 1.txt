@@ -1,0 +1,26 @@
+Data is a rawfact. Which describes attributes of an entity.
+
+Entity is also called as objects.
+Attributes are called as Properties.
+Rawfact is called as real fact.
+
+
+While data extraction it is important to collect unambigous data from the object.
+
+Database : It is a place or a
+container used to store the data in systematic and organized manner.
+
+Database Operation : It is operation used to achive the database.
+
+CRUD operations :
+( Create, Read, Update, Delete )
+
+DBMS - Database Management System : It is used to maintain and manage the database.
+To communicate with DBMS we can use Query Language. ( Structured Query Language )
+
+Types of DBMS :
+
+1. object oriented dbms
+2. Relational DBMS
+3. Network based Database management
+4. Hierarchical Database Management
